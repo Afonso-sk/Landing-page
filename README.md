@@ -8,7 +8,6 @@ Criei essa Landing page utilizando: HTML5 e CSS3
 https://afonso-sk.github.io/Landing-page/
     </p>
 </details>
-<img src="<img src="https://github.com/Afonso-sk/Netflix-clone-/blob/main/image/Netiflix.PNG">
-">
+<img src="https://afonso-sk.github.io/Landing-page/">
 
 
