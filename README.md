@@ -8,6 +8,6 @@ Criei essa Landing page utilizando: HTML5 e CSS3
 https://afonso-sk.github.io/Landing-page/
     </p>
 </details>
-<img src="https://afonso-sk.github.io/Landing-page/">
+<img src="https://github.com/Afonso-sk/Landing-page/blob/master/images/imgl.PNG">
 
 
