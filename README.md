@@ -1,13 +1,13 @@
 # Landing-page
 Criei essa Landing page utilizando: HTML5 e CSS3
 <details>
-    <summary><strong>Lading page</strong></summary>
+    <summary><strong>Clica aqui para acessar a página </strong></summary>
     <br />
     <p align="justify">
-      Landing page
+      
+https://afonso-sk.github.io/Landing-page/
     </p>
 </details>
 
 
-https://afonso-sk.github.io/Landing-page/
 https://github.com/Afonso-sk/Landing-page/blob/master/images/imgl.PNG
